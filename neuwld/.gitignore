@@ -1,0 +1,12 @@
+.deps/
+*.lo
+*.o
+
+*.a
+*.so
+*.so.*
+libwld.*
+
+*.pc
+
+protocol/*-protocol.*
